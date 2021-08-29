@@ -1,7 +1,20 @@
+div{
+    width: 100%;
+    
+}
+img{
+    float:right;
+    margin-right: 400px;
+    margin-top: 50px;
+    height: 150px;
+    width: 150px;
+    
+}
 .outer{
     width: 700px;
     height: 800px;
     margin:0px auto;
+    
 }
 .outer h1{
     text-align: center;
@@ -17,7 +30,9 @@ p{
     font-weight: bold;
 }
 table{
-    width: 100%;
+    border-collapse: collapse;
+    border-color: black;
+    
     
 }
 
@@ -38,3 +53,4 @@ ul{
 h3{
     float:right;
 }
+
