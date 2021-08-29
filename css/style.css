@@ -1,0 +1,40 @@
+.outer{
+    width: 700px;
+    height: 800px;
+    margin:0px auto;
+}
+.outer h1{
+    text-align: center;
+}
+p{
+    font-size: 20px;
+}
+.border{
+    width: 100%;
+    padding: 5px;
+    background-color:rgb(237, 212, 100);
+    border: 1px solid black;
+    font-weight: bold;
+}
+table{
+    width: 100%;
+    
+}
+
+thead{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+td{	
+    border: 1px solid #ddd;
+    padding: 2px;
+    font-size: 20px;
+}
+ul{
+    font-size: 20px;
+    
+}
+h3{
+    float:right;
+}
